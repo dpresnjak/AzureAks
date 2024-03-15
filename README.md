@@ -9,6 +9,7 @@
 * Flexible PSQL Server and DB
 * Storage account, blob, Container Repository
 
+## Tree
     .
     ├── environments
     │   ├── dev
@@ -57,7 +58,7 @@
     ├── providers.tf
     ├── README.md
     └── variables.tf
-
+    
 ## AKS Login
 Azure cluster uses [kubelogin](https://github.com/Azure/kubelogin) for logging into the AKS cluster from a local pc.
 
